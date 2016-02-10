@@ -1,4 +1,6 @@
-quicklens
+quicklensHEAL
+
+Basically the same as D.Hanson's quicklens but uses HEALPix alm2map_spin instead of ECP 
 =====
 
 This package contains code for generating simulated CMB maps with 
